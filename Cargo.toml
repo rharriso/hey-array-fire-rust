@@ -1,0 +1,7 @@
+[package]
+name = "hey-array-fire-rust"
+version = "0.1.0"
+authors = ["Ross Harrison <rtharrison86@gmail.com>"]
+
+[dependencies]
+arrayfire = "3.3.0"
